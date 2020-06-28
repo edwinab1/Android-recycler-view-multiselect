@@ -2,7 +2,7 @@ package mobi.com.multiselect;
 
 import android.app.Activity;
 import android.os.Build;
-import android.support.annotation.ColorRes;
+import androidx.annotation.ColorRes;
 import android.view.Window;
 import android.view.WindowManager;
 
